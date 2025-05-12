@@ -1,6 +1,6 @@
 # TUNE UP
 
-This is a dynamic, client-side music player built using vanilla JavaScript. The app allows users to play, pause, skip, and manage a playlist of songs in the browser.
+This is a dynamic, client-side music player built using JavaScript. The app allows users to play, pause, skip, and manage a playlist of songs in the browser.
 
 ## Files
 
